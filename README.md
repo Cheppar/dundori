@@ -21,3 +21,11 @@ Dundori Land Physical Land Use Developement Plan.
 - Known for it's agricultural activities contributing to Nakuru County's Revenue collection.
 - Within Bahati sub County with a population of approximately 2.5% of bahati Sub-counties Population.
 
+#### Structuring Elements
+- The Dundori Forest, Nakuru - Nyandarua Booundary and the two major roads are Key spatial elements that play an integral role in determining the current structure of Dundori Town.
+- Part of the Dundori was de-gazetted to provide land for human settlement.
+- The Boundary constrains the town from moving further.
+- The roads dictate the nature and direction of the town's development.
+- Acts as a catchment area, River Wanyororo and Mbaruku owe their sources from Dundori Forest.
+- Has rich agricultural hinterland that has played a mojor role in the towns growth
+
