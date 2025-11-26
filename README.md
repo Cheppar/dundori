@@ -29,3 +29,11 @@ Dundori Land Physical Land Use Developement Plan.
 - Acts as a catchment area, River Wanyororo and Mbaruku owe their sources from Dundori Forest.
 - Has rich agricultural hinterland that has played a mojor role in the towns growth
 
+#### Previous Planning Interventions
+- The first development plan was prepared by the now defunct local authority in 1987 with an aim to settle people.
+
+#### Situational Analysis
+- Dundori is a high altitude town, with a mixture of stable foot slopes and hilly intersecctions. The towns lowest area is  at the water dam en route to Nakuru Town.
+- The hilly nature is a challenge to transportation esp during rainy seasons and road maintenance.
+- The terrain accelerates the formation of gulleys during the rainy season affecting movement and transporattion of agricultural products to markets.
+
