@@ -1,5 +1,6 @@
 # Dundori LPLUDP
 Dundori Land Physical Land Use Developement Plan.
+- This report underwent was participatory, inclusive involving Nakuru County Government and external stakeholders through a consultative process to yield an efficient, effective and implemmentable plan
 
 ## Script
 - This video presents Dundori Centre Local Physical and Land Use Development Plan that was prepared in a participatory process.
@@ -27,7 +28,7 @@ Dundori Land Physical Land Use Developement Plan.
 - The Boundary constrains the town from moving further.
 - The roads dictate the nature and direction of the town's development.
 - Acts as a catchment area, River Wanyororo and Mbaruku owe their sources from Dundori Forest.
-- Has rich agricultural hinterland that has played a mojor role in the towns growth
+- Has rich agricultural hinterland that has played a mojor role in the towns growth.
 
 #### Previous Planning Interventions
 - The first development plan was prepared by the now defunct local authority in 1987 with an aim to settle people.
@@ -36,4 +37,37 @@ Dundori Land Physical Land Use Developement Plan.
 - Dundori is a high altitude town, with a mixture of stable foot slopes and hilly intersecctions. The towns lowest area is  at the water dam en route to Nakuru Town.
 - The hilly nature is a challenge to transportation esp during rainy seasons and road maintenance.
 - The terrain accelerates the formation of gulleys during the rainy season affecting movement and transporattion of agricultural products to markets.
+- dundori forests attracts alot of rainfall
+
+#### Slope Analysis
+- Slope is a measure of change in elevation.
+- It's done by finding the difference between elevation points, then multiplying the quotient by 100.
+- Slope analysis is done to deduce areas befitting for development.
+- Dundori lies on a fairly steep slope, most part has a gradient of 24% and below.
+- This habours majority population.
+
+#### Geology and Soils
+
+  ##### Soils
+- Hosts Rich dark reddish brown soils that are deep and well drained. It's soils are friable and smeary suitable to support agriculture.
+  ##### Ground Water
+- Dundori is endowed with shallow to deep and low salinity ground water.
+- Ground water is accessed through wells and boreholes.
+- However, Dundori lacks a sewarage system, with many pit latrines and heavy usse of farm chemmicals require ground water to be treated before consumption..
+- This poses a key environmental concern.
+  ##### Vegetation
+- The study area consists of both indigenous and manmade forests, covering an area of 65,000 hactares.
+- It has extensive tracts of crop plantations.
+- The forested area forms part of the Eastern Mau Catchment basin.
+- Eburru, Bahati, Dundori and Eastern Mau catchment areas.
+- The remmaining forest is restricted to the creast of the Rift valley Escarpment.
+
+##### Hydrology
+- Dundori has a rolling terrain that sloopes toowards Nakuru. 
+- This gives it a natural drainage system characterised by river and stream channels.
+- Majority of permanent streams, drain towards river mbaruk and River wanyororo, that drain to lake elementaita.
+- Long rains are experienced between the months of MMarch and Augusst, April being the highest.
+- Short rains are experienced in the months of September to January.
+
+##### Temperature
 
