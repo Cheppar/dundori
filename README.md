@@ -48,14 +48,16 @@ Dundori Land Physical Land Use Developement Plan.
 
 #### Geology and Soils
 
-  ##### Soils
+##### Soils
 - Hosts Rich dark reddish brown soils that are deep and well drained. It's soils are friable and smeary suitable to support agriculture.
-  ##### Ground Water
+  
+##### Ground Water
 - Dundori is endowed with shallow to deep and low salinity ground water.
 - Ground water is accessed through wells and boreholes.
 - However, Dundori lacks a sewarage system, with many pit latrines and heavy usse of farm chemmicals require ground water to be treated before consumption..
 - This poses a key environmental concern.
-  ##### Vegetation
+  
+##### Vegetation
 - The study area consists of both indigenous and manmade forests, covering an area of 65,000 hactares.
 - It has extensive tracts of crop plantations.
 - The forested area forms part of the Eastern Mau Catchment basin.
@@ -70,4 +72,28 @@ Dundori Land Physical Land Use Developement Plan.
 - Short rains are experienced in the months of September to January.
 
 ##### Temperature
+- Highest temmperatures are experienced in March, at around 75 degress celcius., with the coldest months being 13.5 degrees.
+
+#### Population
+- We focus on population size, Density, and Distribution.
+- According to the 2019 census, Dundori hosted a population of roughly 5,400 residents.
+- the ratio of males to females iss 51% against 49%.
+- dundori's population is projected to grow to roughly 8,000 residents by 2030.
+
+#### Housing
+- Houses are mostly constructed using blocks or bricks for walls, iron sheets for roofing, attributed to affordable building mmaterials.
+- There are however, semi permanent dwellings, a common feature in rural areas.
+
+#### Water and sanitation
+- According to KNBS report , most residents of Nakuru Dispose human waste and waste water in Pit latrines.
+- There is no sewarage system and neither a solid waste management dumpsite in the area.
+- There is need for proper sanitation intervention.
+
+#### Literacy
+- Knowledge levels are measured by the mean years of education among the adult population
+
+
+
+
+
 
