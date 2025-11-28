@@ -99,6 +99,20 @@ Dundori Land Physical Land Use Developement Plan.
 - Dundori Town is cossmopolitan, although the Agikuyu is the predominant community.
 - Most residents are Christians , evident from the Churches around such as AIC, PCEA and Ministry of repentance and holiness.
 
+### Urbanization Trends
+  
+- For the longest time, dundori has been experiencing slow growth rate due to it being sort of isolated by the Dundori Forest and situated at the periphery of Nakuru County.
+- Also, there were security concern issues, with the forest providing a perfect cover for car jacking and kidnapping.
+
+### Land Analysis
+This section sheds light on aspects of land tenure, land use trends, settlement patterns and land suitability analysis.
+
+##### Land Tenure
+- Land tenure is a system through which land rights are determined and documented,
+- It also touches on conditions of how land rights and land resources are acquired.
+- Land tenure in Dundori centre falls under the Public Land.
+- Residents have no titles  but poses allotmment letters and pay annual land rates to Nakuru County Government.
+##### Land Use Patterns
 
 
 
