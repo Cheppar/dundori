@@ -112,7 +112,24 @@ This section sheds light on aspects of land tenure, land use trends, settlement 
 - It also touches on conditions of how land rights and land resources are acquired.
 - Land tenure in Dundori centre falls under the Public Land.
 - Residents have no titles  but poses allotmment letters and pay annual land rates to Nakuru County Government.
+- 
 ##### Land Use Patterns
+- The original plan of 1987 covered a total area of 122 hactares with 930 plots.
+- the existing land use was mapped on topographical survey and land use ground verification.
+- Residential land use occupies the largest total of 41% of the total land.
+- Commerccial land use is situated along the roads. 
+- majority is Medium density land use, followed by High density residential land use.
+- Transport land use is the third major land use covering 20.38%
+- Educational land use cover 9.5%.
+- it also hosts major administrative offices such as chief's office, Police Station and Community Ccentre constituting of 7.1%.
+
+##### Land Use Change
+- This map shows the difference in land uses captured from the development plan.
+- Land previously allocated for Industrial land use is currently under residential use.
+- Land previously  meant for an ECD is currently a water tank, with a Nursery school.
+- The ccentre has sprawled to the west along c83 onto private land.
+- The existing market cntre occupies 0.35, lesss than 50 by 100 is congested.
+- 
 
 
 
