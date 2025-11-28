@@ -90,7 +90,14 @@ Dundori Land Physical Land Use Developement Plan.
 - There is need for proper sanitation intervention.
 
 #### Literacy
-- Knowledge levels are measured by the mean years of education among the adult population
+- Knowledge levels are measured by the mean years of education among the adult population.
+- It's also the average years of education received in a life-time by people aged 25 years  and older.
+- Contributing facctors are access to learning and knowledge by expected years of school children.
+- 91.8% of the population in Nakuru can read and write while 8.2 % cant read. this trend is simmilar in Dundori.
+
+#### Social Analysis
+- Dundori Town is cossmopolitan, although the Agikuyu is the predominant community.
+- Most residents are Christians , evident from the Churches around such as AIC, PCEA and Ministry of repentance and holiness.
 
 
 
