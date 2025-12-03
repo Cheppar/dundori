@@ -58,7 +58,7 @@ Dundori Land Physical Land Use Developement Plan.
 ##### Ground Water
 - Dundori is endowed with shallow to deep and low salinity ground water.
 - Ground water is accessed through wells and boreholes.
-- However, Dundori lacks a sewarage system, with many pit latrines and heavy usse of farm chemmicals require ground water to be treated before consumption..
+- However, Dundori lacks a sewarage system, with many pit latrines and heavy use of farm chemmicals require ground water to be treated before consumption..
 - This poses a key environmental concern.
   
 ##### Vegetation
@@ -105,7 +105,7 @@ Dundori Land Physical Land Use Developement Plan.
 
 ### Urbanization Trends
   
-- For the longest time, dundori has been experiencing slow growth rate due to it being sort of isolated by the Dundori Forest and situated at the periphery of Nakuru County.
+- For the longest time, dundori has been experiencing a slow growth rate, due to it being sort of isolated by the Dundori Forest and situated at the periphery of Nakuru County.
 - Also, there were security concern issues, with the forest providing a perfect cover for car jacking and kidnapping.
 
 ### Land Analysis
@@ -115,14 +115,13 @@ This section sheds light on aspects of land tenure, land use trends, settlement 
 - Land tenure is a system through which land rights are determined and documented,
 - It also touches on conditions of how land rights and land resources are acquired.
 - Land tenure in Dundori centre falls under the Public Land.
-- Residents have no titles  but poses allotmment letters and pay annual land rates to Nakuru County Government.
+- Residents have no titles but poses allotmment letters and pay annual land rates to Nakuru County Government.
 - 
 ##### Land Use Patterns
 - The original plan of 1987 covered a total area of 122 hactares with 930 plots.
 - the existing land use was mapped on topographical survey and land use ground verification.
-- Residential land use occupies the largest total of 41% of the total land.
-- Commerccial land use is situated along the roads. 
-- majority is Medium density land use, followed by High density residential land use.
+- Residential land use occupies 41% of the total land.
+- Majority being Medium Density land use, followed by High density residential land use.
 - Transport land use is the third major land use covering 20.38%
 - Educational land use cover 9.5%.
 - it also hosts major administrative offices such as chief's office, Police Station and Community Ccentre constituting of 7.1%.
